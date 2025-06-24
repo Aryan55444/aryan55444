@@ -1,12 +1,17 @@
-<h1 align="center">Hi 👋, I'm aryan patel</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aryan patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan patel" height="30" width="40" /></a>
-</p>
+<h2 align="center" />
+  
+![My Skills](https://skillicons.dev/icons?i=c,cpp,go,anaconda,tailwind,nodejs,postgres,arch,docker,git,python,fastapi,pytorch,bash,django,kali,tensorflow,sklearn,linux,debian,vim,selenium,mysql,java&perline=8)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pixie2468&theme=github_dark_dimmed&hide_border=true&count_private=true&hide=issues%2Ccontribs&rank_icon=github">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pixie2468&theme=swift&hide_border=true&count_private=true&hide=issues,contrib&rank_icon=githubs">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixie2468&&theme=github_dark_dimmed&hide_border=true&hide_progress=true&hide=javascript&layout=compact">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pixie2468&theme=swift&hide_border=true&hide_progress=true&hide=javascript&layout=compact">
+</picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan55444&show_icons=true&locale=en&layout=compact" alt="aryan55444" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan55444&show_icons=true&locale=en" alt="aryan55444" /></p>
+[![My Twitter](https://img.shields.io/badge/DarshAyde-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/DarshAyde)
+[![My LinkedIn](https://img.shields.io/badge/darshayde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darsh-ayde)
+[![My Email](https://img.shields.io/badge/darshayde@gmail.com-dc2626?logo=gmail&style=for-the-badge&logoColor=white)](mailto:darshayde@gmail.com)
+[![Buy me a Coffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/darsh.ayde)
