@@ -13,5 +13,5 @@
 
 [![My Twitter](https://img.shields.io/badge/DarshAyde-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aryan82008)
 [![My LinkedIn](https://img.shields.io/badge/darshayde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-patel-b0822a31a/)
-[![My Email](https://img.shields.io/badge/darshayde@gmail.com-dc2626?logo=gmail&style=for-the-badge&logoColor=white)](mailto:aryanpate0804@gmail.com)
+[![My Email](https://img.shields.io/badge/aryanpatel0804@gmail.com-dc2626?logo=gmail&style=for-the-badge&logoColor=white)](mailto:aryanpate0804@gmail.com)
 [![Buy me a Coffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/darsh.ayde)
